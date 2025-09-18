@@ -1,5 +1,5 @@
 # 💫 About Me
-- 🌱 Learning & building in Web + AI + Blockchain  
+- 🌱 Learning & building in Web + AI 
 - 🛠️ Working with React, Next.js, Node.js  
 - 🎯 Interested in open-source & real-world projects  
 - ✨ Always curious, always building  
