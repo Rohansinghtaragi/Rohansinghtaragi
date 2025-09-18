@@ -5,4 +5,4 @@
 - ✨ Always curious, always building  
 
 # 🐙 GitHub Stats
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanshrma222&show_icons=true&theme=dark&hide_border=false)
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohansinghtaragi&show_icons=true&theme=dark&hide_border=false)
